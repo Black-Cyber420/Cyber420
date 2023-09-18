@@ -20,7 +20,7 @@ FREE TOOLS
 - `pkg install python`
 - `pip install requests`
 - `pip install mechanize`
-- `rm -rf AKING-PRO`
+- `rm -rf Cyber420`
 - `git clone https://github.com/Black-Cyber420/Cyber420`
 - `cd Cyber420`
 - `python CYBER420.py`
